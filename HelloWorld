@@ -1,0 +1,6 @@
+public classs HelloWorld{
+  public static void main(String[] potato){
+    System.out.println("Helooo thingies");
+    System.out.println("Bye");
+  }
+}
